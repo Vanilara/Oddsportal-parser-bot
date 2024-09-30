@@ -1,0 +1,9 @@
+myprojectenv/
+__pycache__/
+*.txt
+!requirements.txt
+*.log
+*.pyc
+*.db
+*.env
+*.DS_Store
