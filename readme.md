@@ -1,7 +1,7 @@
-# Oddsportal-parser-bot
+# Oddsportal-bot-scraper
 
 This project consists of two parts:
-* A minute-by-minute parser for oddsportal.com, written using Selenium
+* A minute-by-minute scraper for oddsportal.com, written using Selenium
 * A bot for configuring the parsing settings and receiving notifications about new predictions from selected players
 
 
@@ -17,8 +17,8 @@ This project consists of two parts:
 To clone the repository and install dependencies, run the following commands:
 
 ```bash
-git clone https://github.com/Vanilara/Oddsportal-parser-bot.git
-cd Oddsportal-parser-bot
+git clone https://github.com/Vanilara/Oddsportal-bot-scraper.git
+cd Oddsportal-bot-scraper
 pip install -r requirements.txt
 python3 database/remake_database.py
 ```
