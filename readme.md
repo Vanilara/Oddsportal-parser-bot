@@ -18,7 +18,7 @@ To clone the repository and install dependencies, run the following commands:
 
 ```bash
 git clone https://github.com/Vanilara/Oddsportal-parser-bot.git
-cd sadok
+cd Oddsportal-parser-bot
 pip install -r requirements.txt
 python3 database/remake_database.py
 ```
